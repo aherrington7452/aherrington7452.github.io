@@ -1,6 +1,6 @@
 # The Site Configuration
 
-# Import the theme
+# Import the themes
 theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
