@@ -83,7 +83,7 @@ theme_mode:   # dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg"> 
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
